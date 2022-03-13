@@ -7,14 +7,14 @@
 1.下载 toolchain-release。
 #### 下载地址: [toolchain-release](https://codeload.github.com/siyu196/toolchain-release/zip/refs/heads/main)
 #### 
-1. 新建文件夹把下载得ZIP文件解压。
-1. 点击进入解压好的toolchain-release文件夹里，单击上方的文件目录，输入CMD。按Enter键，出现命令窗口例如"E:\OW\toolchain-release>"即可成功。
+1. 新建命名为OW的文件夹把下载得ZIP文件解压。
+1. 点击进入解压好的toolchain-release文件夹里，单击文件夹上方的文件目录，输入CMD。按Enter键，出现命令窗口例如"E:\OW\toolchain-release>"即可成功。
 2. 输入命令
  ```Brach
 datatool D:\bxyx\Overwatch extract-unlocks "E:\OW" D.Va
  ``` 
 ## 注意
-D:\bxyx\Overwatch"是你的游戏目录.
+D:\bxyx\Overwatch"是你的游戏目录，复制后将地址改为你的游戏存储目录.
 </br>
 E:\OW 是你的文件保存目录.
 </br>
