@@ -11,19 +11,19 @@
 1. 点击进入解压好的文件夹里，单击上方的文件目录，输入CMD。按Enter键，出现命令窗口例如"D:\OW\toolchain-release>"即可成功。
 2. 输入命令
  ```Brach
-datatool D:\bxyx\Overwatch extract-unlocks "E:\Output path" Mercy
+datatool D:\bxyx\Overwatch extract-unlocks "E:\OW" D.Va
  ``` 
 ## 注意
 D:\bxyx\Overwatch"是你的游戏目录.
 </br>
-E:\Output path"是你的文件保存目录.
+E:\OW 是你的文件保存目录.
 </br>
-Mercy是你的准备要提取英雄的名字
+D.Va是你的准备要提取英雄的名字
 </br>
 #### 地图提取
 4. 同理，将extract-unlocks替换成extract-maps。把名字改为你所需要的地图名称即可，中英支持。
 ```Brach
-datatool D:\bxyx\Overwatch extract-maps "E:\ow\maps" 国王大道 
+datatool D:\bxyx\Overwatch extract-maps "E:\OW\maps" 国王大道 
 ``` 
 
 ## 守望先锋中英文对照表
