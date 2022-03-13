@@ -1,6 +1,6 @@
 # toolchain-release为Overwatch模型提取
 
-为 Overwatch 中的模型语音贴图特效动作进行提取
+为 Overwatch 中的模型语音贴图特效动作进行提取，由yretenai提供代码，让提取变得更简单。
 
 #### 下载与部署方法
 
@@ -95,4 +95,5 @@ datatool D:\bxyx\Overwatch extract-maps "E:\Output path" 国王大道
     - City Center 中心
     - Gardens 花园
     - University 大学
-  
+## 更新地址
+后续更新地址https://ci.appveyor.com/project/yretenai/OWLib
