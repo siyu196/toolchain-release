@@ -1,6 +1,6 @@
 # toolchain-release为Overwatch模型提取
 
-为 Overwatch 中的模型语音贴图特效动作进行提取，由yretenai提供代码，让提取变得更简单。
+为 Overwatch 中的模型语音贴图特效动作进行提取，由yretenai提供代码siyu196重新整合，让提取变得更简单。
 
 #### 下载与部署方法
 
