@@ -23,7 +23,7 @@ Mercy是你的准备要提取英雄的名字
 #### 地图提取
 4. 同理，将extract-unlocks替换成extract-maps。把名字改为你所需要的地图名称即可，中英支持。
 ```Brach
-datatool D:\bxyx\Overwatch extract-maps "E:\Output path" 国王大道 
+datatool D:\bxyx\Overwatch extract-maps "E:\owmaps" 国王大道 
 ``` 
 
 ## 守望先锋中英文对照表
