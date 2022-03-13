@@ -76,6 +76,8 @@ datatool D:\bxyx\Overwatch extract-maps "E:\Output path" 国王大道
   - **ECOPOINT: ANTARCTICA 生态监测站：南极洲**
   - **JUNKERTOWN 渣客镇**
   - **KING'S ROW 国王大道**
+  - **HAVANA 哈瓦那**
+  - **RLALTO 里阿尔托**
   - **ROUTE 66 66号公路**
   - **TEMPLE OF ANUBIS 阿努比斯神殿**
   - **VOLSKAYA INDUSTRIES 沃斯卡娅工业区**
@@ -85,8 +87,11 @@ datatool D:\bxyx\Overwatch extract-maps "E:\Output path" 国王大道
   - **BLACK FOREST 黑森林**
   - **CASTILLO 城堡**
   - **CHÂTEAU GUILLARD 吉拉德堡**
+  - **PARIS 巴黎**
+  - **PETRA 佩特拉**
   - **NECROPOLIS 墓园**
   - **NUMBANI 努巴尼**
+  - **MALRVRNTO 马莱温多 **
   - **ILIOS 伊利奥斯**
     - Lighthouse 灯塔
     - Ruins 废墟
