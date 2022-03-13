@@ -16,13 +16,16 @@ datatool D:\bxyx\Overwatch extract-unlocks "E:\Output path" Mercy
 ## 注意
 D:\bxyx\Overwatch"是你的游戏目录.
 </br>
-E:\Output path"是你的保存目录.
+E:\Output path"是你的文件保存目录.
 </br>
 Mercy是你的准备要提取英雄的名字
 </br>
 #### 地图提取
-4. 同理，将extract-unlocks替换成extract-maps。把名字改为你所需要的地图名称即可，中英支持。 
-datatool D:\bxyx\Overwatch extract-maps "E:\Output path" 国王大道  
+4. 同理，将extract-unlocks替换成extract-maps。把名字改为你所需要的地图名称即可，中英支持。
+</br> 
+datatool D:\bxyx\Overwatch extract-maps "E:\Output path" 国王大道 
+</br> 
+
 ## 守望先锋中英文对照表
 - **ROLE 角色类型**
   - **OFFENSE HEROES 突击型英雄**
