@@ -43,6 +43,8 @@ datatool D:\bxyx\Overwatch extract-maps "E:\Output path" 国王大道
     - Mei 小美
     - Torbjörn 托比昂
     - Widowmaker 黑百合
+    - Echo 回声
+    - Ashe 艾什
 
   - **TANK HEROES 重装型英雄**
     - D.Va D.Va
@@ -51,6 +53,8 @@ datatool D:\bxyx\Overwatch extract-maps "E:\Output path" 国王大道
     - Roadhog 路霸
     - Winston 温斯顿
     - Zarya 查丽娅
+    - Sigma 西格玛
+    - Wrecking Ball 破环球
 
   - **OFFENSE HEROES 突击型英雄**
     - Brigitte 布丽吉塔
@@ -59,7 +63,8 @@ datatool D:\bxyx\Overwatch extract-maps "E:\Output path" 国王大道
     - Mercy 天使
     - Moira 莫伊拉
     - Symmetra 秩序之光
-    - Zenyatta 禅雅塔/
+    - Zenyatta 禅雅塔
+    - Brptiste 巴蒂斯特
 
 ## 守望先锋中英文对照表
 - **MAP 地图**
