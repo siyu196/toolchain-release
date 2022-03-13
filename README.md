@@ -66,7 +66,7 @@ datatool D:\bxyx\Overwatch extract-maps "E:\Output path" 国王大道
     - Zenyatta 禅雅塔
     - Brptiste 巴蒂斯特
 
-## 守望先锋中英文对照表
+
 - **MAP 地图**
   - **DORADO 多拉多**
   - **EICHENWALDE 艾兴瓦尔德**
