@@ -5,7 +5,7 @@
 ＃＃下载与部署方法
 
 1.下载 ZIP。
-#### Download here: [toolchain-release](https://github.com/michaeldegroot/cats-blender-plugin/archive/master.zip)
+#### Download here: [toolchain-release](https://codeload.github.com/siyu196/toolchain-release/zip)
 1. 把下载得ZIP文件解压至文件夹。
 1. 点击进入解压好的文件夹里，在上方的文件名称，输入`CMD`。按Enter键，出现命令窗口例如"D:\OW\toolchain-release>"即可成功。
 2. 输入命令
