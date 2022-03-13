@@ -2,13 +2,14 @@
 
 为 Overwatch 中的模型语音贴图特效动作进行提取
 
+## Model
+
 ＃＃下载与部署方法
 
 1.下载 ZIP。
 #### 下载地址: [toolchain-release](https://codeload.github.com/siyu196/toolchain-release/zip/refs/heads/main)
-
 1. 把下载得ZIP文件解压至文件夹。
-1. 点击进入解压好的文件夹里，在上方的文件名称，输入`CMD`。按Enter键，出现命令窗口例如"D:\OW\toolchain-release>"即可成功。
+1. 点击进入解压好的文件夹里，单击上方的文件目录，输入CMD。按Enter键，出现命令窗口例如"D:\OW\toolchain-release>"即可成功。
 2. 输入命令
 </br>
 ---</br>
