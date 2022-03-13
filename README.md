@@ -18,5 +18,5 @@
 `E:\Output path"是你的保存目录.
 </br>
 `Mercy是你的准备要提取英雄的名字
-3.同理，将extract-unlocks替换成extract-maps。把名字改为你所需要的地图名称即可，中英支持。 
+1. 同理，将extract-unlocks替换成extract-maps。把名字改为你所需要的地图名称即可，中英支持。 
          
