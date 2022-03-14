@@ -56,7 +56,7 @@ datatool D:\bxyx\Overwatch extract-maps "E:\OW" 国王大道
     - Sigma 西格玛
     - Wrecking Ball 破环球
 
-  - **OFFENSE HEROES 突击型英雄**
+  - **SUPPORT HEROES 支援型英雄**
     - Brigitte 布丽吉塔
     - Ana 安娜
     - Lúcio 卢西奥
